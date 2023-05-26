@@ -7,7 +7,7 @@ the community.
 Ultimately, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
-asdf
+abcd
 
 Join the `Opensource Ops meetup group <https://www.meetup.com/opensourceops/>`_ to be informed of future meetups.
 
